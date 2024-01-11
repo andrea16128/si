@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gioco Della Memoria</string>
+    <string name="facile">FACILE</string>
+    <string name="medio">MEDIO</string>
+    <string name="difficile">DIFFICILE</string>
+    <string name="_5_f">5^F</string>
+    <string name="modalita_facile">MODALITA\' FACILE</string>
+    <string name="tentativi">TENTATIVI:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="modalita_media">MODALITA\' MEDIA</string>
+    <string name="modalita_difficile">MODALITA\' DIFFICILE</string>
+    <string name="_12">12</string>
+    <string name="_15">15</string>
+    <string name="_5__f">5^F</string>
+    <string name="_5_f2">5^F</string>
+    <string name="_25">25</string>
+
+</resources>
